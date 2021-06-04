@@ -33,7 +33,7 @@ apt-get -y install php openssh git wget or chmod 777 *
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Sn8ow/BlackCamera
+git clone https://github.com/Sn8ow/BlackCamera.git
 cd BlackCamera
 bash blackcam.sh or ./blackcam.sh
 ```
