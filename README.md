@@ -35,6 +35,7 @@ apt-get -y install php openssh git wget or chmod 777 *
 ```
 git clone https://github.com/Sn8ow/BlackCamera.git
 cd BlackCamera
+chmod +x blackcam.sh
 bash blackcam.sh or ./blackcam.sh
 ```
 ### Video Demo
