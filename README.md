@@ -1,7 +1,7 @@
 # BlackCamera
 BlackCamera is a tool with which you can take camera shots from the front camera of your target phone or your computer's webcam by simply sending a link.
 
-![DarkCamScreenShot](https://user-images.githubusercontent.com/80784394/120847632-0d014f80-c574-11eb-9998-854c2abaf6f9.png)
+![githubscreen](https://user-images.githubusercontent.com/80784394/120882354-62bb1380-c5d7-11eb-869f-544b6fcc41c3.png)
 
 # What is BlackCamera?
 <p>BlackCamera is techniques to take cam shots of target's phone fornt camera or PC webcam. BlackCamera Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
